@@ -1,0 +1,23 @@
+{
+  "name": "cordova-plugin-rfid-connector",
+  "version": "1.1.1",
+  "description": "Cordova Plugin RFID Connector",
+  "cordova": {
+    "id": "cordova-plugin-rfid-connector",
+    "platforms": [
+      "android",
+      "ios"
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/sapydi/cordova-plugin-rfid-connector.git"
+  },
+  "keywords": [
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-ios"
+  ],
+  "author": "",
+  "license": "ISC"
+}
